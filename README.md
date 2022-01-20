@@ -11,7 +11,7 @@ Execute o server com o comando: go run cmd/server/server.go
 
 Execute o client com o comando: go run cmd/client/client.go
 
-Na func main do arquivo client.go temos 4 métodos, cada uma faz 
+Na func main do arquivo client.go temos 4 métodos, cada um faz 
 as requests de forma diferente.
 
 Para testar os outros métodos basta descomentar o qual deseja e deixar os outros comentados.
